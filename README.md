@@ -2,7 +2,7 @@ PulseTimer
 =======
 
 <img alt="PulseTimer Preview" align="right" height="500"
-   src="screenshot image" />
+   src="http://i.imgur.com/7BSxAi5.png" />
 
 <i>The most minimalistic compass app around!</i>
 
